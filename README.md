@@ -65,7 +65,7 @@ Setup & Installation
 Steps to Run the Project
 1. clone the repository:
    ```bash
-   git clone https://github.com/sreelekha-sree/University.git
+   git clone https://github.com/sreelekha-sree/University-integrated-services.git
 
 2.Import the project into Eclipse as a Maven Project
 
