@@ -81,11 +81,11 @@ http://localhost:8080/University
  
 Security
 
-Role-based authentication
+-Role-based authentication
 
-Input validation
+-Input validation
 
-Secure session handling
+-Secure session handling
 
 Screenshots
 
