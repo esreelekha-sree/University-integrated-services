@@ -1,6 +1,6 @@
 University Integrated Services
 
- Project Overview
+Project Overview
 University Integrated Services is a web-based application designed to centralize and manage multiple university-related services on a single platform.  
 The system aims to improve efficiency, accessibility, and transparency for students, faculty, and administrators.
 
@@ -8,7 +8,7 @@ This project is developed by combining Java-based web technologies with a Machin
 
 
 
- Objectives
+Objectives
 - To provide a unified platform for university services  
 - To simplify academic and administrative processes  
 - To improve user experience through centralized access  
@@ -17,30 +17,30 @@ This project is developed by combining Java-based web technologies with a Machin
 
 
 
- Technologies Used
+Technologies Used
 
-🔹 Frontend
+ Frontend
 - HTML  
 - CSS  
 - JavaScript  
 - JSP  
 
-🔹 Backend (Web Application)
+ Backend (Web Application)
 - Java  
 - Servlets  
 - Apache Tomcat  
 - Maven  
 
-🔹 Machine Learning & API
+ Machine Learning & API
 - Python  
 - FastAPI (ML microservice)
 - TF-IDF (Term Frequency–Inverse Document Frequency)
 - Cosine Similarity
 
-🔹 Database
+ Database
 - MySQL  
 
-🔹 Tools & Version Control
+ Tools & Version Control
 - Eclipse IDE  
 - Git & GitHub  
 
@@ -59,14 +59,14 @@ Machine Learning Component
 
 The project integrates a Machine Learning module to provide intelligent similarity-based results and recommendations.
 
- 🔹 ML Workflow
+  ML Workflow
 1. Textual data is collected and preprocessed  
 2. Features are extracted using **TF-IDF Vectorization**  
 3. Similarity between records is computed using **Cosine Similarity**  
 4. The ML logic is exposed as REST APIs using **FastAPI**  
 5. The Java web application consumes the ML API responses  
 
- 🔹 Advantages
+  Advantages
 - Efficient handling of textual data  
 - Improved accuracy in similarity matching  
 - Scalable ML service using FastAPI  
@@ -86,7 +86,7 @@ University/
 
 ---
 
-## 🚀 Features
+ Features
 - User authentication and authorization  
 - Student information management  
 - Academic service integration  
@@ -97,9 +97,9 @@ University/
 
 ---
 
-## 🔧 Setup & Installation
+ Setup & Installation
 
-### 🔹 Prerequisites
+ Prerequisites
 - Java JDK 8 or above  
 - Apache Tomcat 9 or 10  
 - MySQL Server  
@@ -109,7 +109,7 @@ University/
 
 ---
 
-### 🔹 Steps to Run the Project
+ Steps to Run the Project
 
 1. Clone the repository:
    ```bash
@@ -131,7 +131,7 @@ Access the application via browser:
 
 http://localhost:8080/University
 
-🔐 Security
+ Security
 
 Role-based authentication
 
